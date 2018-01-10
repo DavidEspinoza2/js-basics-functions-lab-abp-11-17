@@ -7,6 +7,3 @@ function calculateVertical(beg, end){
   return (end - beg) * 264;
 }
 
-distanceFromHqInFeet(){
-
-}
