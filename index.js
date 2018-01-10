@@ -6,5 +6,3 @@ function distanceFromHqInBlocks(pickupLocation){
 function calculateVertical(beg, end){
   return (end - beg) * 264;
 }
-
-console.log(distanceFromHqInBlocks(40))
