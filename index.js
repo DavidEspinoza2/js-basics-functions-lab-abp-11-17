@@ -7,4 +7,4 @@ function calculateVertical(beg, end){
   return (end - beg) * 264;
 }
 
-console.log(calculateVertical(1,1));
+console.log(calculateVertical(2,1));
