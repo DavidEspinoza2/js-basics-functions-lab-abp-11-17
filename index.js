@@ -8,7 +8,5 @@ function calculateVertical(beg, end){
 }
 
 distanceFromHqInFeet(){
-  
-}
 
-console.log(calculateVertical(1,2));
+}
