@@ -4,5 +4,5 @@ function distanceFromHqInBlocks(pickupLocation){
 }
 
 function distanceFromHqInFeet(){
-  return distanceFromHqInBlocks(1) * 264;
+  return distanceFromHqInBlocks(0) * 264;
 }
