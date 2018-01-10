@@ -7,6 +7,4 @@ function calculateVertical(beg, end){
   return (end - beg) * 264;
 }
 
-function distanceFromHqInFeet(){
-  return
-}
+console.log(distanceFromHqInBlocks(40))
