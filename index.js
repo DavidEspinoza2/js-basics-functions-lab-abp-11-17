@@ -3,4 +3,6 @@ function distanceFromHqInBlocks(pickupLocation){
   return Math.abs(42 - pickupLocation);
 }
 
-
+function distanceFromHqInFeet(){
+  return distanceFromHqInBlocks() * 264;
+}
